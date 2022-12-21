@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merve Nur</h1>
-<h3 align="center">FrontEnd Developer intern at MedyaSoft</h3>
+<h3 align="center">FrontEnd Developer at MedyaSoft</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
